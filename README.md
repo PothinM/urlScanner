@@ -18,5 +18,5 @@ Un outil simple en Python pour analyser des URLs via l'API v3 de VirusTotal. Ce 
 
 1. Clonez ce dépôt :
    ```bash
-   git clone [https://github.com/PothinM/urlScanner.git](https://github.com/PothinM/urlScanner.git)
+   git clone https://github.com/PothinM/urlScanner.git
    cd urlScanner
